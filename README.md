@@ -4,6 +4,10 @@
 -  System Development - SENAC São Leopoldo
 -  Self-Educated
 
+Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+          
+
 🚀 Projects:
 
 - [Pokedex API's integration](https://www.github.com/victxrmarin/pokedex-vic)
