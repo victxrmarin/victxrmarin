@@ -1,10 +1,10 @@
 # DEVELOPER
-###👩‍💻 System Development Student:
+### 👩‍💻 System Development Student:
 
 -  System Development - SENAC São Leopoldo
 -  Self-Educated
 
-###💻 Languages and Tools:
+### 💻 Languages and Tools:
 <div style="display: inline_block">
           <img height=30 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/> &nbsp;
           <img height=30 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/> &nbsp;
@@ -15,7 +15,7 @@
           
           
 
-###🚀 Projects:
+### 🚀 Projects:
 
 - [Pokedex API's integration](https://www.github.com/victxrmarin/pokedex-vic)
 - [Calculator HTML/CSS](https://www.github.com/victxrmarin/calculator)
