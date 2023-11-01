@@ -15,16 +15,14 @@
           <img height=30 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"/> &nbsp;
           <img height=30 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 </div>          
-          
-          
-
-### 🚀 Projects:
-
-- [Pokedex API's integration](https://www.github.com/victxrmarin/pokedex-vic)
-- [Calculator HTML/CSS](https://www.github.com/victxrmarin/calculator)
-- [Bank System TypeScript/MySQL](https://www.github.com/victxrmarin/calculator)
-- [Tic Tac Toe Swing/Java](https://www.github.com/victxrmarin/tictac-java)
-
+<br>
+<div style="display: inline_block">
+            <p>
+                      <img height=20 width=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+                      My LinkedIn: 
+                      <a href="https://www.linkedin.com/in/victor-marin-9a025b275/"> Click Here!</a>
+            </p>
+</div>
 
 📬 Personal Contact: victormarin.dev@gmail.com
 
