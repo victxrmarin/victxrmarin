@@ -15,6 +15,8 @@
           <img height=30 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> &nbsp;
           <img height=30 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" /> &nbsp;
           <img height=30 widht=40 src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png"/> &nbsp;
+          <img height=30 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+          
 </div>          
 <br>
 <div style="display: inline_block">
