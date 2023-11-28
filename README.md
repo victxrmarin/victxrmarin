@@ -6,15 +6,15 @@
 
 ### 💻 Languages and Tools:
 <div style="display: inline_block">
+          <img height=30 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> &nbsp;
           <img height=30 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> &nbsp;
           <img height=30 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> &nbsp;
           <img height=30 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> &nbsp;
           <img height=30 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/> &nbsp;
           <img height=30 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"/> &nbsp;
           <img height=30 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> &nbsp;
+          <img height=30 widht=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" /> &nbsp;
           <img height=30 widht=40 src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png"/> &nbsp;
-          <img height=30 widht=40 src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png"/>
-          
 </div>          
 <br>
 <div style="display: inline_block">
